@@ -1,11 +1,12 @@
 # Critical-Mass-Application
 Application tasks for Critical mass
 
-Work/Project Examples
+# Work/Project Examples
 
-Inspiration
+# Inspiration
 
-Focus
+# Focus
 
-Code Challenge
-link: https://codesandbox.io/s/1lnyvjzyq
+# Code Challenge
+
+Link: https://codesandbox.io/s/1lnyvjzyq
