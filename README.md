@@ -6,7 +6,7 @@ Application tasks for Critical mass
 ### Shuffl
 WIP
 
-I am currently working in a team of 6 to create a web application for streaming music simultaneously with others. It will include chat rooms to let users discuss the current song that is playing. Users will be able to vote on the next song from the queue. I am taking on the front-end side of the project along with 2 others which included prototyping, designing and building the user interface. 
+I am currently working in a team of 6 to create a web application for streaming music simultaneously with others. It will include chat rooms to let users discuss the current song that is playing. Users will be able to vote on the next song from the queue. I am taking on the front-end side of the project along with 2 others which included prototyping, designing and building the user interface. The application will be built with React, Express, MongoDB and pull music data from Youtube using their own API. 
 ![home](/home.png)
 ![rooms](/rooms.png)
 ![chat](/chat.png)
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=0ZeO0IQaJ-A
 
 I have been following these two youtubers who document their life as current/former software engineer students. Jarvis is a software engineer graduate who interned at google and worked at Patreon. When I first watched Jarvis' video, it was one of the few 'A day in the life' videos for software developers/programmers. These videos gave me a glimpse of the work culture and watching them made me excited to jump into the workforce.
 
-Devon Crawford is a software engineer student who makes vlogs of his projects and life while studying. His most recent video is a vlog of him creating a program that edits his own videos. I find his ideas inspiring due to their usefulness. Having a program automate actions such as his experiment would save a lot of time and effort for YouTubers like Devon. 
+Devon Crawford is a software engineer student who makes vlogs of his projects and life while studying. His most recent video is a vlog of him creating a program that edits his own videos. I find his ideas inspiring due to their usefulness and functionality. Having a program automate actions such as his experiment would save a lot of time and effort for YouTubers like Devon. 
 
 https://amplyfm.com/
 
@@ -35,7 +35,7 @@ Lastly, while browsing reddit, I came across a post about a junior developer's s
 
 ## Focus
 
-If I was given the opportunity to have all the resources and time at Critical Mass, I would focus on creating something...
+If I was given the opportunity to have all the time and resources at Critical Mass, I would put my focus towards learning the process that goes on in designing and building world-class websites that focus on user experience. I believe that I learn best with hands-on experience and if given the chance, I would be grateful to be mentored by the best designers and engineers in the business of digital marketing. 
 
 ## Code Challenge
 
