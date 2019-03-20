@@ -35,7 +35,7 @@ Lastly, while browsing reddit, I came across a post about a junior developer's s
 
 ## Focus
 
-If I was given the opportunity to have all the time and resources at Critical Mass, I would put my focus towards learning the process that goes on in designing and building world-class websites that focus on user experience. I believe that I learn best with hands-on experience and if given the chance, I would be grateful to be mentored by the best designers and engineers in the business of digital marketing. 
+If I was given the opportunity to have all the time and resources at Critical Mass, I would put my focus towards learning the process that goes into designing and building world-class websites that focus on user experience. I believe that I learn best with hands-on experience and if given the chance, I would be grateful to be mentored by the best designers and engineers in the business of digital marketing. 
 
 ## Code Challenge
 
