@@ -9,12 +9,17 @@ I am currently working in a team of 6 to create a web application for streaming 
 
 ### SpringSprung
 
-In a group of 5, we created a game for a client in an introductory iOS class. The objective of the game was to redirect a ball through a series of obstacles by using springs. I was in charge of the core mechanics of the game and designed the objects such as the springs, ball and obstacles. My tasks included making the game feel natural through the controls and user interaction. 
+In a group of 5, we created a game for a client in an introductory iOS class. The objective of the game was to redirect a ball through a series of obstacles by using springs. I was in charge of the core mechanics of the game and designed the objects such as the springs, ball and obstacles. My tasks included designing the game to feel natural through the controls and user interaction. 
 
 ## Inspiration
 
+Jarvis Johnson
+https://www.youtube.com/watch?v=dYK7XW1Phzs
+
+Devon Crawford
 https://www.youtube.com/watch?v=0ZeO0IQaJ-A
 
+I have been following these youtubers for quite some time now
 
 ## Focus
 
