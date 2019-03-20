@@ -25,9 +25,9 @@ https://www.youtube.com/watch?v=dYK7XW1Phzs
 Devon Crawford
 https://www.youtube.com/watch?v=0ZeO0IQaJ-A
 
-I have been following these two youtubers who document their life as current/former software engineer students. Jarvis is a software engineer graduate who interned at google and worked at Patreon. When I first watched Jarvis' video, it was one of the few 'A day in the life' videos for software developers/programmers. These videos gave me a glimpse of the software engineering work culture and watching them made me excited to jump into the workforce.
+I have been following these two youtubers who document their life as current/former software engineer students. Jarvis is a software engineer graduate who interned at google and worked at Patreon. When I first watched Jarvis' video, it was one of the few 'A day in the life' videos for software developers/programmers. These videos gave me a glimpse of the work culture and watching them made me excited to jump into the workforce.
 
-Devon Crawford is a software engineer student who makes vlogs of his projects and life while studying. His most recent video is a vlog of him creating a program that edits his own videos. 
+Devon Crawford is a software engineer student who makes vlogs of his projects and life while studying. His most recent video is a vlog of him creating a program that edits his own videos. I find his ideas inspiring due to their usefulness. Having a program automate actions such as his experiment would save a lot of time and effort for YouTubers like Devon. 
 
 https://amplyfm.com/
 
