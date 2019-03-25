@@ -39,4 +39,4 @@ If I was given the opportunity to have all the time and resources at Critical Ma
 
 ## Code Challenge
 
-Link: https://codesandbox.io/s/1lnyvjzyq1115511
+Link: https://codesandbox.io/s/1lnyvjzyq
